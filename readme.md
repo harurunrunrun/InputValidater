@@ -5,7 +5,7 @@ Validate the input in Python.
 - ## Caution
   - I am not responsible for any damage you may suffer from using this code.
   - I have tested it, but it may contain bugs.
-  - It is very slow because it is reading one character at a time (So you can excute in PyPy3).
+  - It is very slow because it is reading one character at a time (So you may excute in PyPy3).
 
 - ## How to use
 
